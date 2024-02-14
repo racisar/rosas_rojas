@@ -5,13 +5,13 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background-color: #f0f0f0;
+  background-images: url('https://img.freepik.com/vector-gratis/fondo-acuarela-rosa-pintado-mano-detallado_1048-17039.jpg');
 }
 
 .rose {
   width: 50px;
   height: 80px;
-  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJUqrga5JRIcyL6XBh06v1wk_KOI2bc6m8127r_AKhubfMVLY8gjY1rUaVCg&s');
+  background-image: url('https://w7.pngwing.com/pngs/838/749/png-transparent-rose-flower-red-rose-flower-rose-order-flowers-thumbnail.png');
   background-size: contain;
   background-repeat: no-repeat;
   position: absolute;
