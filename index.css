@@ -5,7 +5,9 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background-images: url('https://img.freepik.com/vector-gratis/fondo-acuarela-rosa-pintado-mano-detallado_1048-17039.jpg');
+  background-image: url('https://img.freepik.com/vector-gratis/fondo-acuarela-rosa-pintado-mano-detallado_1048-17039.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .rose {
